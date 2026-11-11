@@ -1,0 +1,12 @@
+/* Hallmark · component styles for PassPlots; the stamp, critique and tokens live in src/styles/app.css */
+.figure { margin: 0; display: grid; gap: var(--space-2xs); min-width: 0; }
+.sky { width: 100%; max-width: 15rem; height: auto; }
+.line { width: 100%; height: 8rem; background: var(--color-paper-3); border-radius: var(--radius-pill); }
+.horizon { fill: var(--color-paper-3); stroke: var(--color-rule-2); stroke-width: 1; }
+.grid { fill: none; stroke: var(--color-rule); stroke-width: 1; }
+.mask { fill: none; stroke: var(--color-muted); stroke-width: 1; stroke-dasharray: 3 3; }
+.track { fill: none; stroke: var(--color-cool); stroke-width: 2; stroke-linejoin: round; }
+.rise { fill: var(--color-cool); }
+.set { fill: var(--color-paper-2); stroke: var(--color-cool); stroke-width: 2; }
+.label { fill: var(--color-muted); font-size: 11px; font-family: var(--font-body); }
+.caption { font-size: var(--text-xs); color: var(--color-muted); }

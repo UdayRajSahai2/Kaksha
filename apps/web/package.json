@@ -1,0 +1,32 @@
+{
+  "name": "@kaksha/web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@fontsource/atkinson-hyperlegible-mono": "5.3.0",
+    "@fontsource/host-grotesk": "5.3.0",
+    "@fontsource/space-grotesk": "5.3.0",
+    "@kaksha/astro": "workspace:*",
+    "d3-geo": "3.1.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "3.1.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/topojson-client": "3.1.5",
+    "@types/topojson-specification": "1.0.5",
+    "@vitejs/plugin-react": "6.3.0",
+    "vite": "8.3.7"
+  }
+}

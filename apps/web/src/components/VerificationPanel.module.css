@@ -1,0 +1,27 @@
+/* Hallmark · component styles for VerificationPanel; the stamp, critique and tokens live in src/styles/app.css */
+.figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  margin: 0;
+  border-bottom: var(--rule-hair) solid var(--color-rule);
+}
+.figure {
+  display: grid;
+  align-content: start;
+  gap: var(--space-2xs);
+  padding: var(--space-md);
+  border-left: var(--rule-hair) solid var(--color-rule);
+  margin-left: -1px;
+  min-width: 0;
+}
+.figure dt { font-size: var(--text-sm); color: var(--color-muted); white-space: nowrap; }
+.value {
+  margin: 0;
+  font-family: var(--font-outlier);
+  font-size: var(--text-xl);
+  font-variant-numeric: tabular-nums slashed-zero;
+  color: var(--color-ink);
+  overflow-wrap: anywhere;
+}
+@media (max-width: 40rem) { .value { font-size: var(--text-lg); } }
+.verdict { margin: 0; }

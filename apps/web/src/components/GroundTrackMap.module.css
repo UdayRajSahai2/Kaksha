@@ -1,0 +1,23 @@
+/* Hallmark · component styles for GroundTrackMap; the stamp, critique and tokens live in src/styles/app.css */
+.wrap { background: var(--color-paper-3); }
+.canvas { display: block; width: 100%; aspect-ratio: 2 / 1; }
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2xs) var(--space-lg);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.legend li { display: inline-flex; align-items: center; gap: var(--space-xs); }
+.swatch { width: var(--space-lg); height: 2px; flex-shrink: 0; }
+.swatchPast { background: var(--color-muted); }
+.swatchFuture { background: var(--color-cool); height: 3px; }
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid var(--color-cool);
+  flex-shrink: 0;
+}
+.credit { margin-left: auto; }

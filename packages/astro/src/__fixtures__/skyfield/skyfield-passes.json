@@ -1,0 +1,952 @@
+{
+  "maskDeg": 10.0,
+  "windows": [
+    {
+      "satnum": 6251,
+      "line1": "1 06251U 62025E   06176.82412014  .00008885  00000-0  12808-3 0  3985",
+      "line2": "2 06251  58.0579  54.0425 0030035 139.1568 221.1854 15.56387291  6774",
+      "station": "Bengaluru",
+      "latDeg": 12.9716,
+      "lonDeg": 77.5946,
+      "heightKm": 0.92,
+      "fromUtcMs": 1151264803980.096,
+      "toUtcMs": 1151351203980.096,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151298229694.156,
+          "elevationDeg": 10.007794500210267,
+          "azimuthDeg": 242.36748538896424
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151298398309.778,
+          "elevationDeg": 25.960388622928942,
+          "azimuthDeg": 301.55522718702827
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151298565277.6511,
+          "elevationDeg": 9.99351573144066,
+          "azimuthDeg": 0.8706768543876604
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151333719037.528,
+          "elevationDeg": 10.010581128578323,
+          "azimuthDeg": 351.8480788712553
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151333888117.199,
+          "elevationDeg": 33.161491057984236,
+          "azimuthDeg": 58.93341053790506
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151334057965.604,
+          "elevationDeg": 9.998729393583769,
+          "azimuthDeg": 125.84464513481039
+        }
+      ]
+    },
+    {
+      "satnum": 6251,
+      "line1": "1 06251U 62025E   06176.82412014  .00008885  00000-0  12808-3 0  3985",
+      "line2": "2 06251  58.0579  54.0425 0030035 139.1568 221.1854 15.56387291  6774",
+      "station": "Kiruna area",
+      "latDeg": 67.857,
+      "lonDeg": 20.964,
+      "heightKm": 0.4,
+      "fromUtcMs": 1151264803980.096,
+      "toUtcMs": 1151351203980.096,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151327078213.4,
+          "elevationDeg": 10.010161220822049,
+          "azimuthDeg": 206.530879377567
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151327184523.747,
+          "elevationDeg": 14.148742141452638,
+          "azimuthDeg": 172.46313309651705
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151327290423.595,
+          "elevationDeg": 9.999362528074892,
+          "azimuthDeg": 138.29754513441173
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151332779548.881,
+          "elevationDeg": 10.000731162410345,
+          "azimuthDeg": 223.56460052295014
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151332873577.54,
+          "elevationDeg": 13.090462813839492,
+          "azimuthDeg": 193.69641196961496
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151332967060.959,
+          "elevationDeg": 9.99685615702156,
+          "azimuthDeg": 163.80337466298198
+        }
+      ]
+    },
+    {
+      "satnum": 6251,
+      "line1": "1 06251U 62025E   06176.82412014  .00008885  00000-0  12808-3 0  3985",
+      "line2": "2 06251  58.0579  54.0425 0030035 139.1568 221.1854 15.56387291  6774",
+      "station": "Santiago",
+      "latDeg": -33.45,
+      "lonDeg": -70.67,
+      "heightKm": 0.57,
+      "fromUtcMs": 1151264803980.096,
+      "toUtcMs": 1151351203980.096,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151290157789.156,
+          "elevationDeg": 10.002302414718073,
+          "azimuthDeg": 5.191270314970767
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151290312271.279,
+          "elevationDeg": 22.65324894816838,
+          "azimuthDeg": 59.459895391543796
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151290470443.103,
+          "elevationDeg": 9.999170943071446,
+          "azimuthDeg": 113.55632345710464
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151295910570.184,
+          "elevationDeg": 10.000766332565131,
+          "azimuthDeg": 272.3232170961471
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151296054831.079,
+          "elevationDeg": 18.973061998039896,
+          "azimuthDeg": 224.18024729266435
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151296201954.6821,
+          "elevationDeg": 9.994918914300793,
+          "azimuthDeg": 176.15430286073777
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151319407425.556,
+          "elevationDeg": 10.000275923239299,
+          "azimuthDeg": 168.64041636739253
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151319508697.748,
+          "elevationDeg": 13.03805601670769,
+          "azimuthDeg": 138.85838827545888
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151319609622.0852,
+          "elevationDeg": 9.999419075186218,
+          "azimuthDeg": 109.05809372646219
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151325071508.4119,
+          "elevationDeg": 10.000398926994617,
+          "azimuthDeg": 230.68995295539
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151325267018.999,
+          "elevationDeg": 43.508919771287246,
+          "azimuthDeg": 303.62007819624586
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151325459701.398,
+          "elevationDeg": 9.997682827702162,
+          "azimuthDeg": 16.553381893721344
+        }
+      ]
+    },
+    {
+      "satnum": 28057,
+      "line1": "1 28057U 03049A   06177.78615833  .00000060  00000-0  35940-4 0  1836",
+      "line2": "2 28057  98.4283 247.6961 0000884  88.1964 271.9322 14.35478080140550",
+      "station": "Bengaluru",
+      "latDeg": 12.9716,
+      "lonDeg": 77.5946,
+      "heightKm": 0.92,
+      "fromUtcMs": 1151347924079.712,
+      "toUtcMs": 1151434324079.712,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151380731981.24,
+          "elevationDeg": 10.002652902742764,
+          "azimuthDeg": 70.46432719461158
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151380877070.898,
+          "elevationDeg": 13.374150235192564,
+          "azimuthDeg": 99.1130712168727
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151381021890.551,
+          "elevationDeg": 9.999703541522123,
+          "azimuthDeg": 127.70405821205769
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151386537108.433,
+          "elevationDeg": 10.000244538656782,
+          "azimuthDeg": 350.8170210384765
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151386817759.818,
+          "elevationDeg": 37.38073409515955,
+          "azimuthDeg": 284.2710838028295
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151387098838.72,
+          "elevationDeg": 9.993841580279222,
+          "azimuthDeg": 217.54025605222748
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151426142196.208,
+          "elevationDeg": 10.00617049778605,
+          "azimuthDeg": 157.39160435745217
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151426444663.447,
+          "elevationDeg": 63.203113852263854,
+          "azimuthDeg": 76.70569134607766
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151426746849.7378,
+          "elevationDeg": 9.998104485876867,
+          "azimuthDeg": 356.4945725261846
+        }
+      ]
+    },
+    {
+      "satnum": 28057,
+      "line1": "1 28057U 03049A   06177.78615833  .00000060  00000-0  35940-4 0  1836",
+      "line2": "2 28057  98.4283 247.6961 0000884  88.1964 271.9322 14.35478080140550",
+      "station": "Kiruna area",
+      "latDeg": 67.857,
+      "lonDeg": 20.964,
+      "heightKm": 0.4,
+      "fromUtcMs": 1151347924079.712,
+      "toUtcMs": 1151434324079.712,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151348781608.091,
+          "elevationDeg": 10.000361968650337,
+          "azimuthDeg": 149.14252391964052
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151349090151.54,
+          "elevationDeg": 81.03138764034786,
+          "azimuthDeg": 62.9107563868299
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151349400167.802,
+          "elevationDeg": 9.998288420244025,
+          "azimuthDeg": 337.3797140271511
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151354788814.454,
+          "elevationDeg": 10.001736612721652,
+          "azimuthDeg": 199.88395548970118
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151355070820.8499,
+          "elevationDeg": 35.251903405141235,
+          "azimuthDeg": 266.08240349385466
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151355354706.013,
+          "elevationDeg": 9.998641146930291,
+          "azimuthDeg": 332.4191404675319
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151360998521.307,
+          "elevationDeg": 10.000764398942694,
+          "azimuthDeg": 267.21865569798985
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151361116402.221,
+          "elevationDeg": 12.012513322843214,
+          "azimuthDeg": 289.93561841278915
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151361234696.852,
+          "elevationDeg": 9.999468625938835,
+          "azimuthDeg": 312.6857646460671
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151391816026.4111,
+          "elevationDeg": 10.002044911560363,
+          "azimuthDeg": 46.40291066392971
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151391940871.197,
+          "elevationDeg": 12.27456329748074,
+          "azimuthDeg": 70.48358906831697
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151392065691.643,
+          "elevationDeg": 9.999505021822488,
+          "azimuthDeg": 94.61239987671634
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151397700212.439,
+          "elevationDeg": 10.001136051975951,
+          "azimuthDeg": 27.430316317858015
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151397985329.46,
+          "elevationDeg": 35.9445210953535,
+          "azimuthDeg": 94.33332365810038
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151398268665.642,
+          "elevationDeg": 9.998310770514593,
+          "azimuthDeg": 161.1139160095798
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151403655130.491,
+          "elevationDeg": 10.000959088913188,
+          "azimuthDeg": 22.581258070289046
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151403965100.365,
+          "elevationDeg": 79.6624358847032,
+          "azimuthDeg": 296.9281094549403
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151404273310.119,
+          "elevationDeg": 9.999124849207698,
+          "azimuthDeg": 211.7264741200091
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151409615219.5872,
+          "elevationDeg": 10.001824872723363,
+          "azimuthDeg": 22.97700288333434
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151409890515.821,
+          "elevationDeg": 33.723846688193795,
+          "azimuthDeg": 320.2522605954359
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151410165030.0032,
+          "elevationDeg": 9.99822520243587,
+          "azimuthDeg": 257.48362668330185
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151415552287.284,
+          "elevationDeg": 10.000855238224299,
+          "azimuthDeg": 30.525425916983092
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151415775950.806,
+          "elevationDeg": 20.69700275275711,
+          "azimuthDeg": 344.0020094811118
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151415999613.162,
+          "elevationDeg": 9.999733990490371,
+          "azimuthDeg": 297.4109648035111
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151421430627.437,
+          "elevationDeg": 10.001053463192942,
+          "azimuthDeg": 51.915495626185624
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151421643641.691,
+          "elevationDeg": 19.23738802536249,
+          "azimuthDeg": 8.1102287492062
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151421856690.4248,
+          "elevationDeg": 9.999805392869142,
+          "azimuthDeg": 324.3312415487418
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151427263309.3792,
+          "elevationDeg": 10.00076091643421,
+          "azimuthDeg": 88.52555690332991
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151427520541.498,
+          "elevationDeg": 27.55107567495531,
+          "azimuthDeg": 31.99992121184335
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151427778158.2861,
+          "elevationDeg": 9.998132200038675,
+          "azimuthDeg": 335.5829880328929
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151433129057.3262,
+          "elevationDeg": 10.00176174231663,
+          "azimuthDeg": 132.8201934476291
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151433430908.153,
+          "elevationDeg": 58.24788853667571,
+          "azimuthDeg": 55.299254721179885
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151433734163.8801,
+          "elevationDeg": 9.99976261703675,
+          "azimuthDeg": 337.84941749639853
+        }
+      ]
+    },
+    {
+      "satnum": 28057,
+      "line1": "1 28057U 03049A   06177.78615833  .00000060  00000-0  35940-4 0  1836",
+      "line2": "2 28057  98.4283 247.6961 0000884  88.1964 271.9322 14.35478080140550",
+      "station": "Santiago",
+      "latDeg": -33.45,
+      "lonDeg": -70.67,
+      "heightKm": 0.57,
+      "fromUtcMs": 1151347924079.712,
+      "toUtcMs": 1151434324079.712,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151377170711.158,
+          "elevationDeg": 10.00309302837016,
+          "azimuthDeg": 161.75057531969804
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151377480979.6829,
+          "elevationDeg": 68.17066281925702,
+          "azimuthDeg": 78.36631655068034
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151377786940.003,
+          "elevationDeg": 9.997912179699805,
+          "azimuthDeg": 355.1280476765391
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151383269313.0022,
+          "elevationDeg": 10.000084933864004,
+          "azimuthDeg": 220.41986343292103
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151383390672.472,
+          "elevationDeg": 12.278661072188022,
+          "azimuthDeg": 243.67184973244196
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151383511746.086,
+          "elevationDeg": 9.995246506255116,
+          "azimuthDeg": 266.98253264799075
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151417452236.423,
+          "elevationDeg": 10.004324569949656,
+          "azimuthDeg": 26.054471672170777
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151417755431.721,
+          "elevationDeg": 61.8847815808719,
+          "azimuthDeg": 105.72958387208783
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151418062391.15,
+          "elevationDeg": 9.99928252271282,
+          "azimuthDeg": 184.98934022195868
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151423605345.595,
+          "elevationDeg": 10.000379732599072,
+          "azimuthDeg": 295.03794188229506
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151423725095.177,
+          "elevationDeg": 12.13546970614149,
+          "azimuthDeg": 271.90140385320785
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151423845770.483,
+          "elevationDeg": 9.999892065326723,
+          "azimuthDeg": 248.70859251097264
+        }
+      ]
+    },
+    {
+      "satnum": 29238,
+      "line1": "1 29238U 06022G   06177.28732010  .00766286  10823-4  13334-2 0   101",
+      "line2": "2 29238  51.5595 213.7903 0202579  95.2503 267.9010 15.73823839  1061",
+      "station": "Bengaluru",
+      "latDeg": 12.9716,
+      "lonDeg": 77.5946,
+      "heightKm": 0.92,
+      "fromUtcMs": 1151304824456.6401,
+      "toUtcMs": 1151391224456.6401,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151332292875.0369,
+          "elevationDeg": 10.005994049672807,
+          "azimuthDeg": 156.92643492017123
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151332378124.705,
+          "elevationDeg": 12.848738678973955,
+          "azimuthDeg": 127.46860619784543
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151332459633.939,
+          "elevationDeg": 9.999221301443384,
+          "azimuthDeg": 97.6086454810252
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151338002920.9111,
+          "elevationDeg": 10.000045671149064,
+          "azimuthDeg": 279.25864413460357
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151338077672.1448,
+          "elevationDeg": 12.420509360475663,
+          "azimuthDeg": 307.1964576082779
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151338149313.398,
+          "elevationDeg": 9.994872149308756,
+          "azimuthDeg": 335.479670133973
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151372910810.144,
+          "elevationDeg": 10.015816479461257,
+          "azimuthDeg": 318.0672858430336
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151373050822.9438,
+          "elevationDeg": 71.32165838786163,
+          "azimuthDeg": 233.1814934649625
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151373207381.5789,
+          "elevationDeg": 9.9934171692089,
+          "azimuthDeg": 148.24597412201024
+        }
+      ]
+    },
+    {
+      "satnum": 29238,
+      "line1": "1 29238U 06022G   06177.28732010  .00766286  10823-4  13334-2 0   101",
+      "line2": "2 29238  51.5595 213.7903 0202579  95.2503 267.9010 15.73823839  1061",
+      "station": "Kiruna area",
+      "latDeg": 67.857,
+      "lonDeg": 20.964,
+      "heightKm": 0.4,
+      "fromUtcMs": 1151304824456.6401,
+      "toUtcMs": 1151391224456.6401,
+      "events": []
+    },
+    {
+      "satnum": 29238,
+      "line1": "1 29238U 06022G   06177.28732010  .00766286  10823-4  13334-2 0   101",
+      "line2": "2 29238  51.5595 213.7903 0202579  95.2503 267.9010 15.73823839  1061",
+      "station": "Santiago",
+      "latDeg": -33.45,
+      "lonDeg": -70.67,
+      "heightKm": 0.57,
+      "fromUtcMs": 1151304824456.6401,
+      "toUtcMs": 1151391224456.6401,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 1151329847087.498,
+          "elevationDeg": 10.003606288463887,
+          "azimuthDeg": 354.4530827837789
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151330011290.4302,
+          "elevationDeg": 25.127216446051182,
+          "azimuthDeg": 52.198008384379165
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151330189446.2932,
+          "elevationDeg": 9.99820544725227,
+          "azimuthDeg": 109.13053376344766
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151335542939.323,
+          "elevationDeg": 10.000068505134461,
+          "azimuthDeg": 275.91304008500606
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151335723984.61,
+          "elevationDeg": 27.557419143194227,
+          "azimuthDeg": 214.8803974925713
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151335917848.334,
+          "elevationDeg": 9.999524776404787,
+          "azimuthDeg": 154.3449875953539
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151353106292.781,
+          "elevationDeg": 10.000937519538237,
+          "azimuthDeg": 166.30596802083173
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151353141231.236,
+          "elevationDeg": 10.263983368652536,
+          "azimuthDeg": 157.4700995763231
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151353176210.165,
+          "elevationDeg": 9.999989698064422,
+          "azimuthDeg": 148.57514480986524
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151358684487.188,
+          "elevationDeg": 10.001970078180904,
+          "azimuthDeg": 216.38368346844695
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151358904869.256,
+          "elevationDeg": 48.95309309888088,
+          "azimuthDeg": 140.0488671974521
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151359110796.3618,
+          "elevationDeg": 9.99830428221198,
+          "azimuthDeg": 63.644177183468486
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 1151364481469.545,
+          "elevationDeg": 10.000222105705252,
+          "azimuthDeg": 272.0063937254893
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 1151364595994.492,
+          "elevationDeg": 13.833706930986237,
+          "azimuthDeg": 304.21700597490394
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 1151364706334.3079,
+          "elevationDeg": 9.995050010518222,
+          "azimuthDeg": 336.87995311273556
+        }
+      ]
+    },
+    {
+      "satnum": 88888,
+      "line1": "1 88888U          80275.98708465  .00073094  13844-3  66816-4 0    87",
+      "line2": "2 88888  72.8435 115.9689 0086731  52.6988 110.5714 16.05824518  1058",
+      "station": "Bengaluru",
+      "latDeg": 12.9716,
+      "lonDeg": 77.5946,
+      "heightKm": 0.92,
+      "fromUtcMs": 339291684113.76,
+      "toUtcMs": 339378084113.76,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 339300102903.97296,
+          "elevationDeg": 10.002994903005321,
+          "azimuthDeg": 192.01996762911676
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339300220006.013,
+          "elevationDeg": 81.25351933549894,
+          "azimuthDeg": 105.27380285448146
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339300333351.526,
+          "elevationDeg": 9.978720138581826,
+          "azimuthDeg": 16.482593522168457
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 339340016513.67096,
+          "elevationDeg": 10.020224051289945,
+          "azimuthDeg": 9.556550745473977
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339340145130.394,
+          "elevationDeg": 30.424271623142996,
+          "azimuthDeg": 75.56900011583578
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339340279119.12695,
+          "elevationDeg": 9.997932778096384,
+          "azimuthDeg": 141.12632884981488
+        }
+      ]
+    },
+    {
+      "satnum": 88888,
+      "line1": "1 88888U          80275.98708465  .00073094  13844-3  66816-4 0    87",
+      "line2": "2 88888  72.8435 115.9689 0086731  52.6988 110.5714 16.05824518  1058",
+      "station": "Kiruna area",
+      "latDeg": 67.857,
+      "lonDeg": 20.964,
+      "heightKm": 0.4,
+      "fromUtcMs": 339291684113.76,
+      "toUtcMs": 339378084113.76,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 339322522505.52203,
+          "elevationDeg": 10.011712438569543,
+          "azimuthDeg": 208.27907460760565
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339322632859.258,
+          "elevationDeg": 43.785036280911804,
+          "azimuthDeg": 132.86743276259259
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339322746198.092,
+          "elevationDeg": 9.997977146591637,
+          "azimuthDeg": 57.79014605191984
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 339328012342.25,
+          "elevationDeg": 10.001556136233933,
+          "azimuthDeg": 268.05081269785063
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339328119059.515,
+          "elevationDeg": 30.678330802251292,
+          "azimuthDeg": 335.46668697087927
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339328228953.628,
+          "elevationDeg": 9.99784309937092,
+          "azimuthDeg": 42.8934458009566
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 339333536345.56104,
+          "elevationDeg": 10.000874351552294,
+          "azimuthDeg": 307.46467974020385
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339333627768.079,
+          "elevationDeg": 18.76143985758701,
+          "azimuthDeg": 358.3797184541329
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339333721602.331,
+          "elevationDeg": 9.999991642681875,
+          "azimuthDeg": 49.235535103584546
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 339339030841.447,
+          "elevationDeg": 10.00166406285261,
+          "azimuthDeg": 317.72977212514735
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339339137883.394,
+          "elevationDeg": 26.656194013061622,
+          "azimuthDeg": 20.96112595710215
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339339248416.932,
+          "elevationDeg": 9.998528034172127,
+          "azimuthDeg": 84.05819625676152
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 339344508286.853,
+          "elevationDeg": 10.003069805379182,
+          "azimuthDeg": 306.94139793492457
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339344629509.813,
+          "elevationDeg": 70.52846350001361,
+          "azimuthDeg": 222.56195128854483
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339344755582.15204,
+          "elevationDeg": 9.999954080211392,
+          "azimuthDeg": 137.83325654459793
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 339350037370.36096,
+          "elevationDeg": 10.000862037868838,
+          "azimuthDeg": 267.99715752109205
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339350090589.10297,
+          "elevationDeg": 11.834801045441266,
+          "azimuthDeg": 242.6709227399729
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339350144482.675,
+          "elevationDeg": 9.99596990031804,
+          "azimuthDeg": 217.4646405095832
+        }
+      ]
+    },
+    {
+      "satnum": 88888,
+      "line1": "1 88888U          80275.98708465  .00073094  13844-3  66816-4 0    87",
+      "line2": "2 88888  72.8435 115.9689 0086731  52.6988 110.5714 16.05824518  1058",
+      "station": "Santiago",
+      "latDeg": -33.45,
+      "lonDeg": -70.67,
+      "heightKm": 0.57,
+      "fromUtcMs": 339291684113.76,
+      "toUtcMs": 339378084113.76,
+      "events": [
+        {
+          "kind": "rise",
+          "tUtcMs": 339292308395.536,
+          "elevationDeg": 10.000075202253027,
+          "azimuthDeg": 31.423434161811244
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339292423488.294,
+          "elevationDeg": 17.95382787129736,
+          "azimuthDeg": 77.97657548652359
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339292541121.371,
+          "elevationDeg": 9.993583184860446,
+          "azimuthDeg": 124.24670570403624
+        },
+        {
+          "kind": "rise",
+          "tUtcMs": 339331653555.089,
+          "elevationDeg": 10.009146167468288,
+          "azimuthDeg": 198.3347250808998
+        },
+        {
+          "kind": "culmination",
+          "tUtcMs": 339331795953.14996,
+          "elevationDeg": 89.16117896166733,
+          "azimuthDeg": 281.1629476972326
+        },
+        {
+          "kind": "set",
+          "tUtcMs": 339331928543.338,
+          "elevationDeg": 9.982346449004686,
+          "azimuthDeg": 17.288463815254346
+        }
+      ]
+    }
+  ]
+}

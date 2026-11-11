@@ -1,0 +1,16 @@
+{
+  "name": "@kaksha/astro",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./fixtures/sgp4-verification/*": "./src/__fixtures__/sgp4-verification/*"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "satellite.js": "7.1.0"
+  }
+}

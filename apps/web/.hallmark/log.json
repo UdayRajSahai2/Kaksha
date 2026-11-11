@@ -1,0 +1,19 @@
+[
+  {
+    "scope": "app",
+    "shape": "app screen",
+    "theme": "console",
+    "axes": "dark/grotesk-sans/chromatic-amber",
+    "nav": "top bar",
+    "footer": "provenance line",
+    "imagery": "none (product built: map, readings, tables)",
+    "photos": [],
+    "entry": "workbench",
+    "signature": "the reading: sub-satellite point in the measured face with epoch, chosen time and age",
+    "sections": ["element set", "time", "reading", "ground track", "state vectors", "verification"],
+    "waived": [],
+    "prompt": "Kaksha astro workbench",
+    "date": "2026-11-11",
+    "mode": "build"
+  }
+]

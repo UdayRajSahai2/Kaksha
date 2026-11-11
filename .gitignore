@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+data/
+*-plan.md
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+playwright-report/
+test-results/
+.hallmark/shots/

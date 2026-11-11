@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>Astro workbench, Kaksha</title>
+    <meta name="description" content="Propagate an element set with SGP4 in the browser and check the frame chain and verification vectors." />
+    <script>
+      try {
+        const mode = localStorage.getItem('kaksha-mode');
+        if (mode === 'light' || mode === 'dark') document.documentElement.dataset.mode = mode;
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <p style="padding: 24px">The workbench runs the orbit code in your browser and needs JavaScript. The verification results are also published as text in docs/validation/sgp4-verification.md.</p>
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

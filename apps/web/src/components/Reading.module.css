@@ -1,0 +1,29 @@
+/* Hallmark · component styles for Reading; the stamp, critique and tokens live in src/styles/app.css */
+.figures {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0;
+  border-bottom: var(--rule-hair) solid var(--color-rule);
+}
+.figure {
+  display: grid;
+  gap: var(--space-2xs);
+  padding: var(--space-md);
+  min-width: 0;
+}
+.figure + .figure { border-left: var(--rule-hair) solid var(--color-rule); }
+.figure dt { font-size: var(--text-sm); color: var(--color-muted); }
+.value {
+  margin: 0;
+  font-family: var(--font-outlier);
+  font-size: var(--text-reading);
+  font-variant-numeric: tabular-nums slashed-zero;
+  letter-spacing: -0.04em;
+  line-height: 1.05;
+  color: var(--color-ink);
+  overflow-wrap: anywhere;
+}
+@media (max-width: 40rem) {
+  .figures { grid-template-columns: minmax(0, 1fr); }
+  .figure + .figure { border-left: 0; border-top: var(--rule-hair) solid var(--color-rule); }
+}

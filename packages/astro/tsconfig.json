@@ -1,0 +1,11 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    // No DOM and no Node globals: fetch, document and process do not type-check here.
+    // This enforces the rule that packages/astro is pure (spec CORE-08).
+    "lib": ["ES2024"],
+    "types": [],
+    "resolveJsonModule": true
+  },
+  "include": ["src"]
+}
